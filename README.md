@@ -1,7 +1,6 @@
-# Stock Price Prediction
+# EXP-02:Stock Price Prediction
 
 ## AIM
-
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
@@ -29,7 +28,6 @@ Step 5: Preprocess test data, predict using the trained model, and visualize the
 ## Program
 #### Name:Sabari Akash A
 #### Register Number:212222230124
-
 ```PY
 import numpy as np
 import matplotlib.pyplot as plt
@@ -113,7 +111,6 @@ plt.show()
 ```
 
 ## Output
-
 ### True Stock Price, Predicted Stock Price vs time
 
 <img src=image.png width=350 height=300>
