@@ -1,4 +1,4 @@
-# EXP-02:Stock Price Prediction
+# EXP-05:Stock Price Prediction
 
 ## AIM
 To develop a Recurrent Neural Network model for stock price prediction.
@@ -11,7 +11,6 @@ Dataset: The dataset consists of two CSV files:
 Trainset.csv: This file contains historical stock price data of Google, which will be used for training the RNN model. It includes features such as the opening price of the stock.
 Testset.csv: This file contains additional historical stock price data of Google, which will be used for testing the trained RNN model. Similarly, it includes features such as the opening price of the stock.
 The objective is to build a model that can effectively learn from the patterns in the training data to make accurate predictions on the test data.
-
 
 ## Design Steps
 Step 1: Read and preprocess training data, including scaling and sequence creation.
